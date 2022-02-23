@@ -1,1 +1,1 @@
-# Machine-learning-KISD-2022
+# Machine learning KISD 2022
